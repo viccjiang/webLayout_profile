@@ -346,7 +346,7 @@ body {
 /* page */
 
 .bg-img {
-  background-image: url("../image/background-img.png");
+  background-image: url("image/background-img.png");
   background-size: cover;
   background-position: center;
 }
